@@ -4,8 +4,10 @@ Working on an IELTS learning website that can make real impact
 - Reading practice
 - Writing practice
 - Progress tracking
+- AI coaching/chatbot
 ## Tech Stack
 - Pyhon
 - Streamlit
+- Dotenv
 ## Status
 - Under active development
