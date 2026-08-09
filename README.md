@@ -19,6 +19,6 @@ Working on an IELTS learning website that can make real impact
 3. node.js
 ###How to run locally :
 - open your code studio, use the file explorer, go to the frontend folder, create a new folder and name it .env.local
-- cd to the backend folder, install all the requirement into that terminal ( pip install -r requirement.txt )
-- uvicorn main:app --reload
+- cd to the backend folder, install all the requirement into that terminal ( pip install -r requirements.txt )
+- python -m uvicorn main:app --reload --port 8000
 - cd to frontend folder then npm install then npm run dev ( you should got a localhost link, paste it into your browser )
