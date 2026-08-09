@@ -6,7 +6,7 @@ Working on an IELTS learning website that can make real impact
 - Progress tracking
 - AI coaching/chatbot
 ## Tech Stack
-- Pyhon
+- Python
 - FastAPI
 - Dotenv
 - Unicvron
@@ -17,7 +17,8 @@ Working on an IELTS learning website that can make real impact
 1. Python 3.x
 2. Ollama ( optional )
 3. node.js
-###How to open :
-- cd to the backend folder, install all the requirement into that terminal ( pip install -r requirement.text )
+###How to run locally :
+- open your code studio, use the file explorer, go to the frontend folder, create a new folder and name it .env.local
+- cd to the backend folder, install all the requirement into that terminal ( pip install -r requirement.txt )
 - uvicorn main:app --reload
 - cd to frontend folder then npm install then npm run dev ( you should got a localhost link, paste it into your browser )
