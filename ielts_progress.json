@@ -1,0 +1,30 @@
+{
+  "reading": [],
+  "writing": [
+    {
+      "timestamp": "2026-08-15T16:06:07",
+      "band_estimate": 2.0,
+      "source": "ai"
+    },
+    {
+      "timestamp": "2026-08-19T16:14:41",
+      "band_estimate": 7.0,
+      "source": "heuristic"
+    },
+    {
+      "timestamp": "2026-08-19T21:56:39",
+      "band_estimate": 7.0,
+      "source": "heuristic"
+    },
+    {
+      "timestamp": "2026-08-19T22:23:47",
+      "band_estimate": 8.4,
+      "source": "ai"
+    },
+    {
+      "timestamp": "2026-08-19T22:27:09",
+      "band_estimate": 8.4,
+      "source": "ai"
+    }
+  ]
+}
